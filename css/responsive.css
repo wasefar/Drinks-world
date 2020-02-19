@@ -1,0 +1,680 @@
+
+
+
+@media screen and (min-width: 320px) and (max-width: 568px){
+	
+	.left_area_top_header_text_item_sc p{
+		display: none;
+	}
+	.sc_header_section_logo_area_images_section img{
+		width: 100%;
+		display: block;
+	}
+	.sc_header_section_menu_item_list{
+		margin-left: 0px;
+	}
+	input.form-control.mr-sm-2.sc_search_area{
+		width: 130px;
+	}
+	.from_cart_sc_section_img{
+		padding-left: 10px;
+	}
+	.bg_slider_alcohol_images_contant img{
+		width: 100%;
+		display: block;
+		height: 322px;
+	}
+	.bg_slider_alcohol_images_contant{
+		padding-top: 40px;
+	}
+	section.sc_main_area_section_bg_slider_sc{
+		height: 749px;
+	}
+	.sc_main_bg_slider_area_item_text{
+		padding-left: 0px;
+	}
+	.main_sc_item_list_promo_box{
+		width: 100%;
+		margin: 0 auto;
+	}
+	.main_sc_item_promo_box_paragrap span {
+		font-size: 9px;
+	}
+	.main_sc_item_promo_box_paragrap p{
+		font-size: 8px;
+	}
+	.main_sc_item_promo_box_icon_images{
+	    width: 36px;
+    }
+	.main_sc_item_promo_box_icon_images img{
+	   width: 30px;
+    }
+    .main_sc_item_list_promo_box{
+		width: 100%;
+		margin: 0 auto;
+   }
+   .sc_contant_area_alcohol{
+		padding: 0px;
+		margin-bottom: 20px;
+	}
+	.sc_contant_area_cocacola {
+		margin: 0px;
+		padding: 0px;
+		margin-bottom: 15px;
+	}
+	section.main_sc_promo_box_area_bg_gray_item{
+		margin-bottom: 0;
+	}
+	.sc_alcohol_soft_drink_item_box,
+	.sc_alcohol_soft_drink_item_box-bg_blue{
+		width: 305px;
+		margin-left: 12px;
+	}
+	.main_sc_alcohol_button_box_area{
+		width: 100%;
+		margin-left: 10px;
+    }
+    section.main_sc_cocacola_item_box_area {
+	    width: 100%;
+	    margin-left: 8px;
+	}
+	.main_sc_cocacola_high_discount_bg_blue_images_area{
+		padding: 18px 0px; 
+	}
+	.high_discount_bg_blue_text_area_sc p{
+		font-size: 13px;
+		padding-left: 10px;
+	}
+	button.high_discount_bg_blue_button a {
+	    padding: 4px 9px;
+	    font-size: 12px;
+	}
+	button.high_discount_bg_blue_button {
+		padding-top: 15px;
+	}
+	.main_sc_cocacola_order_before_bg_blue_images_area{
+		padding: 0px 0px;
+		width: 331px;
+		height: 106px;
+	} 
+	.order_before_bg_gray_images_area_sc img {
+	    width: 60px;
+	}
+	p.ordered_before_sc_area_section_spn_text {
+	    padding-left: 68px;
+	    font-size: 9px;
+	    line-height: 13px;
+	}
+	button.order_before_bg_gray_button a {
+	    padding: 2px 5px;
+	    font-size: 10px;
+	}
+	.order_before_bg_gray_text_area_sc {
+	    padding-top: 25px;
+	}
+	.sc_contant_newslatter_area{
+		padding: 0px;
+	}
+		section.main_sc_icon_images_newsletter_search_box_area {
+	    height: 140px;
+	}
+
+	.main_sc_newslatter_search_item_input_box_sc {
+		float: none;
+		width: 100%;
+	}
+	input.form-control.mr-sm-2.sc_search_area.newslatter_area{
+		width: 74%;
+	}
+	button.btn.btn-outline-success.my-2.my-sm-0.icon_button_area.newslatter_area{
+		width: 25%;
+		font-size: 10px;
+		padding: 8px 10px;
+	}
+	span.newslater_sc_area {
+	    float: none;
+	}
+	.sc_contant_footer_area{
+		padding: 0px;
+		margin-bottom: 25px;
+	}
+	section.footer_sc_area_grid_decription_promo_box {
+	    width: 90%;
+	    margin-left: 18px; 
+	}
+	section.footer_sc_area_payment_card_sc_area {
+    	padding: 0px;
+	}
+	.footer_area_copyright_sc_text{
+		width: 100%;
+		float: none;
+	}
+	.footer_sc_area_payment_card_images_area {
+	    float: none;
+	    width: 100%;
+	    padding: 15px 0;
+	}
+
+}
+@media screen and (min-width: 360px) and (max-width: 575px){
+
+.left_area_top_header_text_item_sc p{
+	display: none;
+
+}
+.top_header_sc_section_item_list{
+	width: 100%;
+}
+.icon_sc_images_icon_section a{
+	padding: 0px;
+}
+.user_icon_sc_img a{
+	padding-left: 10px;
+}
+.right_area_top_header_icon_item_sc{
+	width: 95%;
+}
+.sc_contant_area{
+	width: 100%;
+}
+.sc_header_section_logo_area_images_section img{
+	width: 100%;
+	display: block;
+}
+.from_cart_sc_section_img{
+	padding-left: 20px;
+}
+.sc_header_section_menu_item_list{
+	text-align: center;
+	margin-left: 0;
+}
+input.form-control.mr-sm-2.sc_search_area{
+	width: 168px;
+}
+.bg_slider_alcohol_images_contant img{
+	width: 100%;
+	display: block;
+    height: 307px;
+}
+
+section.sc_main_area_section_bg_slider_sc{
+	height: 646px;
+	width: 100%;
+}
+.sc_main_bg_slider_area_item_text{
+	padding-top: 80px;
+	padding-left: 20px;
+}
+.sc_main_bg_slider_area_item_text{
+	padding-left: 0px;
+}
+section.main_sc_promo_box_area_bg_gray_item{
+	width: 100%;
+	padding-top: 35px;
+}
+.main_sc_item_promo_box_icon_images img{
+	width: 36px;
+}
+.main_sc_item_promo_box_icon_images{
+	width: 42px;
+}
+.main_sc_item_list_promo_box{
+	width: 100%;
+	margin: 0 auto;
+}
+.main_sc_item_promo_box_paragrap span{
+	font-size: 12px;
+}
+.main_sc_item_promo_box_paragrap p{
+	font-size: 10px;
+}
+.sc_contant_area{
+	padding: 0px 10px;
+}
+.sc_contant_area_alcohol{
+	padding: 0;
+	margin-bottom: 20px;
+}
+section.main_sc_promo_box_area_bg_gray_item{
+	margin-bottom: 0;
+}
+.sc_alcohol_soft_drink_item_box,
+.sc_alcohol_soft_drink_item_box-bg_blue{
+	width: 100%;
+}
+.main_sc_alcohol_button_box_area{
+	width: 100%;
+	margin-left: 0px;
+}
+section.main_sc_cocacola_item_box_area {
+    width: 100%;
+    margin-left: 2px;
+    margin-top: 40px;
+}
+.main_sc_cocacola_high_discount_bg_blue_images_area{
+	padding: 29px 22px; 
+}
+.high_discount_bg_blue_text_area_sc p{
+	font-size: 24px;
+}
+.main_sc_cocacola_order_before_bg_blue_images_area{
+	padding: 32px 0px;
+	width: 100%;
+}
+.order_before_bg_gray_images_area_sc img {
+    width: 60px;
+}
+.order_before_bg_gray_text_area_sc.pd0_sc{
+	padding-top: 0px;
+}
+p.ordered_before_sc_area_section_spn_text {
+    padding-left: 72px;
+    color: #ffffff;
+    font-size: 10px;
+    line-height: 13px;
+}
+button.order_before_bg_gray_button a{
+	font-size: 10px;
+}
+.order_before_bg_gray_button_area_sc {
+    padding-top: 0px;
+}
+.sc_contant_area_cocacola {
+	margin: 0px;
+	padding: 0px;
+	margin-bottom: 15px;
+}
+section.main_sc_icon_images_newsletter_search_box_area {
+    padding: 14px 31px;
+    height: 140px;
+}
+.sc_contant_newslatter_area{
+	padding: 0px;
+}
+.main_sc_newslatter_search_item_input_box_sc {
+	float: none;
+	width: 100%;
+	
+}
+input.form-control.mr-sm-2.sc_search_area.newslatter_area{
+	width: 74%;
+}
+button.btn.btn-outline-success.my-2.my-sm-0.icon_button_area.newslatter_area{
+	width: 25%;
+	font-size: 10px;
+	padding: 8px 10px;
+}
+span.newslater_sc_area {
+	padding-right: 5px;
+    width: 100%;
+    display: block;
+    float: none;
+}
+.sc_contant_footer_area{
+	padding: 0px;
+	margin-bottom: 25px;
+}
+section.footer_sc_area_grid_decription_promo_box {
+    width: 90%;
+    margin-left: 18px;
+}
+section.footer_sc_area_payment_card_sc_area {
+    padding: 0px;
+}
+.footer_area_copyright_sc_text{
+	width: 100%;
+	float: none;
+}
+.footer_sc_area_payment_card_images_area {
+    float: none;
+    width: 100%;
+    padding: 15px 0;
+}
+
+}
+@media screen and (min-width: 600px) and (max-width: 1024px){
+
+	.sc_header_section_logo_area_images_section img{
+		width: 300px;
+	}
+	.left_area_top_header_text_item_sc p{
+		display: none;
+	}
+	.sc_header_section_menu_item_list{
+		margin-left: 0;
+	}
+	.search_sc_header_item_section{
+		float: none;
+	}
+	input.form-control.mr-sm-2.sc_search_area{
+		width: 351px;
+	}
+	section.sc_main_area_section_bg_slider_sc{
+		width: 100%;
+		height: 850px;
+	}
+	.bg_slider_alcohol_images_contant img{
+		width: 95%;
+		margin: 0 auto;
+	}
+	.sc_main_bg_slider_area_item_text{
+		padding-left: 0px;
+	}
+	section.main_sc_promo_box_area_bg_gray_item{
+	    padding-top: 60px;
+   }
+   .sc_contant_area{
+   		margin-bottom: 15px;
+   }
+   .sc_contant_area_alcohol{
+		padding: 0;
+		margin-bottom: 20px;
+    }
+    section.main_sc_promo_box_area_bg_gray_item{
+		margin-bottom: 0;
+    }
+	.sc_alcohol_soft_drink_item_box,
+	.sc_alcohol_soft_drink_item_box-bg_blue{
+		width: 565px;
+       margin: 0 10px;
+}
+	.sc_alcohol_soft_drink_item_box-bg_blue{
+			height: 121px;
+			padding-top: 25px;
+	}
+	.main_sc_alcohol_button_box_area{
+		width: 100%;
+		margin-left: 0px;
+	}
+	section.main_sc_cocacola_item_box_area {
+	    width: 100%;
+	    margin-left: 4px;
+	}
+	.main_sc_cocacola_high_discount_bg_blue_images_area {
+	    padding: 26px 41px;
+	}
+	.high_discount_bg_blue_text_area_sc p{
+		line-height: 30px;
+	}
+	.main_sc_cocacola_order_before_bg_blue_images_area{
+		padding: 14px 0px;
+	}
+	p.ordered_before_sc_area_section_spn_text {
+	    padding-left: 136px;
+	    font-size: 16px;
+	    line-height: 23px;
+	}
+	section.main_sc_icon_images_newsletter_search_box_area {
+	    padding: 14px 31px;
+	    height: 140px;
+	}
+	.sc_contant_newslatter_area{
+		padding: 0px;
+	}
+	.main_sc_newslatter_search_item_input_box_sc {
+		float: none;
+		width: 100%;
+		
+	}
+	input.form-control.mr-sm-2.sc_search_area.newslatter_area{
+		width: 74%;
+	}
+	button.btn.btn-outline-success.my-2.my-sm-0.icon_button_area.newslatter_area{
+		width: 25%;
+		font-size: 10px;
+		padding: 8px 10px;
+	}
+	span.newslater_sc_area {
+		padding-right: 5px;
+	    width: 100%;
+	    display: block;
+	    float: none;
+	}
+	.sc_contant_footer_area{
+		padding: 0px;
+		margin-bottom: 40px;
+	}
+	section.footer_sc_area_grid_decription_promo_box {
+	    width: 100%;
+	    margin-left: 29px;
+	  
+	}
+	.dcp_sc_footer_item_text a{
+		width: 85%;
+	}
+	section.footer_sc_area_payment_card_sc_area {
+    padding: 0px;
+	}
+	.footer_area_copyright_sc_text{
+		width: 100%;
+		float: none;
+	}
+	.footer_sc_area_payment_card_images_area {
+	    float: none;
+	    width: 100%;
+	    padding: 15px 0;
+	}
+
+}
+@media screen and (min-width: 800px) and (max-width: 1280px){
+
+	.sc_header_section_logo_area_images_section img{
+		width: 141px;
+	}
+	.sc_header_section_menu_item_list ul li{
+		padding: 0 8px;
+	}
+	input.form-control.mr-sm-2.sc_search_area{
+		width: 125px;
+	}
+	.from_cart_sc_section_img{
+		padding-left: 10px;
+	}
+	.bg_slider_alcohol_images_contant img{
+		height: 330px;
+        width: 357px;
+	}
+	section.sc_main_area_section_bg_slider_sc{
+		height: 412px;
+	}
+	.main_sc_item_list_promo_box{
+		width: 100%;
+		margin: 0 auto;
+	}
+	.sc_contant_area.p0_item{
+		padding: 0;
+	}
+	.main_sc_item_promo_box_paragrap span {
+		font-size: 12px;
+	}
+	.main_sc_item_promo_box_paragrap p{
+		font-size: 10px;
+	}
+	section.main_sc_promo_box_area_bg_gray_item{
+	  margin-bottom: 20px;
+    }
+	.sc_alcohol_soft_drink_item_box,
+	.sc_alcohol_soft_drink_item_box-bg_blue{
+		width: 221px;	
+    }
+    .sc_alcohol_soft_drink_item_box-bg_blue{
+    	height: 94px;
+    	padding-top: 10px;
+    }
+    .sc_contant_area_alcohol{
+		padding: 0;
+		margin: 0px 0px;
+    }
+    .sc_contant_area_cocacola {
+	    margin: 0 0px;
+    }
+    .main_sc_cocacola_item_images_sc_promo_box img {
+    	width: 50px;
+	}
+	.main_sc_cocacola_bottom_area_text_box h4 {
+	    color: #4c4c4c;
+	    font-size: 11px;
+	    line-height: 20px;
+	    margin-bottom: -43px;
+	}
+    span.cocacola_sc_item_price_list_euro {
+	    font-weight: 600;
+	    font-size: 15px;
+	}
+	.main_cocacola_sc_item_area_gray_bg_section_part {
+	    height: 257px;
+	    margin-bottom: 28px;
+	}
+	.ordered_before_sc_area_section_spn_text {
+	    padding-left: 136px;
+	    font-size: 16px;
+	}
+	section.footer_sc_area_grid_decription_promo_box {
+	    width: 100%;
+	    margin-left: 29px;
+	     margin: 0;
+	}
+	.sc_contant_footer_area{
+		padding: 0px;
+		margin-bottom: 40px;
+	}
+	.dcp_sc_footer_item_text a{
+		width: 80%;
+	}
+	section.footer_sc_area_payment_card_sc_area {
+    	padding: 0px;
+    	
+	}
+	.footer_area_copyright_sc_text{
+		width: 100%;
+		
+	}
+	.footer_sc_area_payment_card_images_area img {
+	    
+	    width: 40px;
+	}
+	span.sc_hover_overlay_area_zero_bg_gray{
+		padding: 0px 11px 0 12px; 
+	}
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px){
+
+	.sc_header_section_logo_area_images_section img{
+		width: 154px;
+	}
+	.sc_header_section_menu_item_list {
+		margin-left: 0;
+	}
+	.sc_header_section_menu_item_list ul li{
+		padding:  0 3px;
+	}
+	input.form-control.mr-sm-2.sc_search_area{
+		width: 120px;
+	}
+	.from_cart_sc_section_img{
+		padding-left: 5px;
+	}
+	.bg_slider_alcohol_images_contant img{
+		height: 330px;
+    
+        width: 357px;
+	}
+	section.sc_main_area_section_bg_slider_sc{
+		height: 412px;
+	}
+	.main_sc_item_list_promo_box{
+		width: 100%;
+		margin: 0 auto;
+	}
+	.main_sc_item_promo_box_paragrap span {
+		font-size: 12px;
+	}
+	.main_sc_item_promo_box_paragrap p{
+		font-size: 11px;
+	}
+	.main_sc_item_promo_box_icon_images{
+	    width: 57px;
+    }
+	.main_sc_item_promo_box_icon_images img{
+	   width: 50px;
+    }
+    .main_sc_item_list_promo_box{
+		width: 100%;
+		margin: 0 auto;
+   }
+   .sc_contant_area.p0_item{
+   		padding: 0px;
+   }
+   section.main_sc_promo_box_area_bg_gray_item{
+		margin-bottom: 25px;
+   }
+	.sc_alcohol_soft_drink_item_box,
+	.sc_alcohol_soft_drink_item_box-bg_blue{
+		width: 219px;
+		margin: 0 auto;
+  }
+  .sc_alcohol_soft_drink_item_box-bg_blue{
+    	height: 94px;
+    	padding-top: 10px;
+    }
+    .sc_contant_area_alcohol{
+		padding: 0;
+		margin: 0px 0px;
+    }
+    .main_sc_cocacola_item_images_sc_promo_box img {
+    	width: 50px;
+	}
+	.main_sc_cocacola_bottom_area_text_box h4 {
+	    color: #4c4c4c;
+	    font-size: 11px;
+	    line-height: 20px;
+	    margin-bottom: -43px;
+	}
+    span.cocacola_sc_item_price_list_euro {
+	    font-weight: 600;
+	    font-size: 15px;
+	}
+	.main_cocacola_sc_item_area_gray_bg_section_part {
+	    height: 257px;
+	    margin-bottom: 28px;
+	}
+	.ordered_before_sc_area_section_spn_text {
+	    padding-left: 136px;
+	    font-size: 16px;
+	}
+	.sc_contant_area_cocacola {
+    	margin-bottom: 19px;
+    	margin: 0px 0px;
+	}
+	p.ordered_before_sc_area_section_spn_text {
+	    padding-left: 0px;
+	    padding-top: 10px;
+	}
+	section.footer_sc_area_grid_decription_promo_box {
+	    width: 97%;
+	    margin-left: 22px;
+	     margin: 0;
+	}
+	.sc_contant_footer_area{
+		padding: 0px;
+		margin-bottom: 40px;
+	}
+	.dcp_sc_footer_item_text a{
+		width: 90%;
+	}
+	section.footer_sc_area_payment_card_sc_area {
+    	padding: 0px;
+    	
+	}
+	.footer_area_copyright_sc_text{
+		width: 100%;
+		
+	}
+	.footer_sc_area_payment_card_images_area img {
+	    
+	    width: 40px;
+	}
+
+}
